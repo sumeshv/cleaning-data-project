@@ -1,0 +1,6 @@
+Activity_Code : This variable has the values from 1 to 6 representing different activites done by the subject. The vaues are in line with the downloaded file activity_labels.txt
+Activity_Description : This provides the description for each acctivity code which is available in activity_labels.txt file
+User : This is the subjects who have performed the test and training with the wearables. This can have values from 1 to 30.
+Axis : The X, Y or Z axis for which the measurements are taken
+Average_Of_Mean : The average of the measuremnts that represents the mean for each observations in the data file.
+Average_Of_SD : The average of the measuremnts that represents the standard deviation for each observations in the data file.
